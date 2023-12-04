@@ -1,0 +1,8 @@
+main{
+    display: flex;
+    align-items: center;
+    justify-content: z
+    space-between;
+    width: 100%;
+    max-width: 1440px;
+}
